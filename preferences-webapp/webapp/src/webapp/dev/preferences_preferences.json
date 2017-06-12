@@ -1,0 +1,13 @@
+{
+	"cdp:status":"0",
+	"preferences":
+	{
+		"userId": 1,
+		"noti_announcements":"2",
+		"noti_discussion":"0",
+		"noti_pm":"2",
+		"noti_resources":"0",
+		"timezone":"America/Los_Angeles",
+		"language":"en_US"
+	 }
+}

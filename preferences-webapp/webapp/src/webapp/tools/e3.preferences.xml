@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<registration>
+
+	<tool
+			id="e3.preferences"
+			title="preferences"
+			description="preferences"
+			dispatcher="E3"
+			e3Code="preferences">
+
+	</tool>
+
+</registration>
